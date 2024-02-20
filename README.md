@@ -1,4 +1,4 @@
-# Broad-learning-multi-thin-layered-Rayleigh-wave-inversion
+# Multi-thin-layered-broad-learning--Rayleigh-wave-inversion
 
 杨晓辉, 韩鹏, 冯旭平, & 陈晓非. (2024). 基于宽度学习的多薄层面波频散曲线反演. 地球物理学报. 已接收.
 
